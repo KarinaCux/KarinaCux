@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarinaCux
-- 👀 I’m interested in Game Development!
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Game Development & Software Development!
+- 🌱 I’m currently relearning C++ and learning HTML & JS
 
 
 <!---
